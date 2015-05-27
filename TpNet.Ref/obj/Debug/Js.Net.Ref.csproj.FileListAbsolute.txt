@@ -1,0 +1,4 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\bin\Debug\Js.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\bin\Debug\Js.Net.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Debug\Js.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Debug\Js.Net.Ref.pdb

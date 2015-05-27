@@ -1,0 +1,6 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Debug\Js.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Debug\Js.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Debug\Amuse.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Debug\Noesis.Javascript.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Debug\Js.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Debug\Js.Net.pdb

@@ -1,0 +1,12 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Js.Net.Demo.exe.config
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Js.Net.Demo.exe
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Js.Net.Demo.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Js.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Noesis.Javascript.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\obj\Release\Js.Net.Demo.exe
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\obj\Release\Js.Net.Demo.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\obj\Release\Js.Net.Demo.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Amuse.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Js.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\Jint.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Release\tp.js

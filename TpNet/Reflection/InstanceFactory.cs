@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace TpNet.Reflection
+{
+    public static class InstanceFactory
+    {
+        public static object GetInstance(Type type)
+        {
+            return Activator.CreateInstance(type);
+        }
+        public static object GetInstance(Type type, object[] args)
+        {
+            return Activator.CreateInstance(type, args);
+        }
+    }
+
+}

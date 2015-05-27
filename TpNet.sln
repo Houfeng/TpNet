@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpNet", "TpNet\TpNet.csproj", "{440DC0D0-F786-47EF-9579-9E9B93B03799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpNet.Demo", "TpNet.Demo\TpNet.Demo.csproj", "{AAD7AD42-5F57-4C7A-ABAF-7E02CBDC4ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpNet.Ref", "TpNet.Ref\TpNet.Ref.csproj", "{4C4EB7BA-89E8-477C-9B9C-471FFE36DFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440DC0D0-F786-47EF-9579-9E9B93B03799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440DC0D0-F786-47EF-9579-9E9B93B03799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440DC0D0-F786-47EF-9579-9E9B93B03799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440DC0D0-F786-47EF-9579-9E9B93B03799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD7AD42-5F57-4C7A-ABAF-7E02CBDC4ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD7AD42-5F57-4C7A-ABAF-7E02CBDC4ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD7AD42-5F57-4C7A-ABAF-7E02CBDC4ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD7AD42-5F57-4C7A-ABAF-7E02CBDC4ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4EB7BA-89E8-477C-9B9C-471FFE36DFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4EB7BA-89E8-477C-9B9C-471FFE36DFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4EB7BA-89E8-477C-9B9C-471FFE36DFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4EB7BA-89E8-477C-9B9C-471FFE36DFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

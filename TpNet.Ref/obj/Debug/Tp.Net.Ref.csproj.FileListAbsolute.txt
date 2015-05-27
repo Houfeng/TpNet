@@ -1,0 +1,4 @@
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\bin\Debug\Tp.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\bin\Debug\Tp.Net.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\obj\Debug\Tp.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\obj\Debug\Tp.Net.Ref.pdb

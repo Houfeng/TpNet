@@ -1,0 +1,14 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Amuse.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Tp.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Tp.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Release\Tp.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Release\Tp.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\tp.js
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Jint.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\utils.js
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\Tp.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\Tp.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\Jint.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\obj\Release\Tp.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\obj\Release\Tp.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\Tp.Net.XML

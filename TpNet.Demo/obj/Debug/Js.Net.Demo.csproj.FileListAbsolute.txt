@@ -1,0 +1,10 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Js.Net.Demo.exe.config
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Js.Net.Demo.exe
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Js.Net.Demo.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Js.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Noesis.Javascript.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Amuse.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\bin\Debug\Js.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\obj\Debug\Js.Net.Demo.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\obj\Debug\Js.Net.Demo.exe
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Demo\obj\Debug\Js.Net.Demo.pdb

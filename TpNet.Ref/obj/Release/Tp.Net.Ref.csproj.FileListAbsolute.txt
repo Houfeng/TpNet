@@ -1,0 +1,9 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\bin\Release\Tp.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\bin\Release\Tp.Net.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Release\Tp.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Release\Tp.Net.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Release\Tp.Net.Ref.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\bin\Release\Tp.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\bin\Release\Tp.Net.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\obj\Release\Tp.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net.Ref\obj\Release\Tp.Net.Ref.pdb

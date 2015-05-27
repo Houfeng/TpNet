@@ -1,0 +1,10 @@
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\TpNet.Demo.exe.config
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\obj\Debug\TpNet.Demo.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\TpNet.Demo.exe
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\TpNet.Demo.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\TpNet.dll
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\TpNet.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\TpNet.xml
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\obj\Debug\TpNet.Demo.exe
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\obj\Debug\TpNet.Demo.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Demo\bin\Debug\Jint.dll

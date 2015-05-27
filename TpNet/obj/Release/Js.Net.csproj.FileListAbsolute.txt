@@ -1,0 +1,7 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Js.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Js.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Amuse.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\bin\Release\Noesis.Javascript.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Release\Js.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Release\Js.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net\obj\Release\Js.Net.csprojResolveAssemblyReference.cache

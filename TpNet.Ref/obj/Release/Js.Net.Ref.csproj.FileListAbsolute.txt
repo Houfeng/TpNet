@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\bin\Release\Js.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\bin\Release\Js.Net.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Release\Js.Net.Ref.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Release\Js.Net.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\Js.Net\Js.Net.Ref\obj\Release\Js.Net.Ref.pdb

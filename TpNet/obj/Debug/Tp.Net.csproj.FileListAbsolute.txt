@@ -1,0 +1,6 @@
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Debug\Tp.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Debug\Tp.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Debug\Jint.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\obj\Debug\Tp.Net.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\obj\Debug\Tp.Net.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Debug\Tp.Net.XML

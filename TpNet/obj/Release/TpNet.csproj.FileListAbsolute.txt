@@ -1,0 +1,13 @@
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\TpNet.xml
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\TpNet.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\TpNet.pdb
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\bin\Release\Jint.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\obj\Release\TpNet.dll
+\\psf\Home\Desktop\dev\MyProjects\Tp.Net\Tp.Net\obj\Release\TpNet.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\bin\Release\TpNet.xml
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\bin\Release\TpNet.dll
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\bin\Release\TpNet.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\bin\Release\Jint.dll
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\obj\Release\TpNet.dll
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\obj\Release\TpNet.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet\obj\Release\TpNet.csprojResolveAssemblyReference.cache

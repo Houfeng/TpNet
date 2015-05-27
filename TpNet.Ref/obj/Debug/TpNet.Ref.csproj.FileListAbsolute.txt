@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Ref\bin\Debug\TpNet.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Ref\bin\Debug\TpNet.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Ref\obj\Debug\TpNet.Ref.dll
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Ref\obj\Debug\TpNet.Ref.pdb
+\\psf\Home\Desktop\dev\MyProjects\TpNet\TpNet.Ref\obj\Debug\TpNet.Ref.csprojResolveAssemblyReference.cache
